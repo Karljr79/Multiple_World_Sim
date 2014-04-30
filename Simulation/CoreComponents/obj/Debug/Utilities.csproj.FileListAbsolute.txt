@@ -1,0 +1,5 @@
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\CoreComponents\bin\Debug\Utilities.dll
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\CoreComponents\bin\Debug\Utilities.pdb
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\CoreComponents\obj\Debug\ResolveAssemblyReference.cache
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\CoreComponents\obj\Debug\Utilities.dll
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\CoreComponents\obj\Debug\Utilities.pdb

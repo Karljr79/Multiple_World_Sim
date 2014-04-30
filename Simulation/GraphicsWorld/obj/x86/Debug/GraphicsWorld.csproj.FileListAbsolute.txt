@@ -1,0 +1,9 @@
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\GraphicsWorld\bin\Debug\GraphicsWorld.exe
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\GraphicsWorld\bin\Debug\GraphicsWorld.pdb
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\GraphicsWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\GraphicsWorld\obj\x86\Debug\GraphicsWorld.Form1.resources
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\GraphicsWorld\obj\x86\Debug\GraphicsWorld.Properties.Resources.resources
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\GraphicsWorld\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\GraphicsWorld\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\GraphicsWorld\obj\x86\Debug\GraphicsWorld.exe
+F:\Docs Backup\School Work\Physics of MLS\Karl_Mult_World_Sim\Simulation\GraphicsWorld\obj\x86\Debug\GraphicsWorld.pdb
